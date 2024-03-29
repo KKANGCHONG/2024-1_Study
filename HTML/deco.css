@@ -34,3 +34,9 @@ a {
 a:hover {
     text-decoration: underline;
 }
+
+.favorite {
+    color: #666;
+    font-size: 15px;
+}
+
